@@ -19,7 +19,7 @@
     <string name="no_image_saved">No image saved!</string>
 
     <!-- ImageInfoDialogFragment values -->
-    <string name="subreddit_name_prefixed">./%1$s</string>
+    <string name="subreddit_name_prefixed">%1$s</string>
     <string name="save">Save</string>
     <string name="remove">Remove</string>
     <string name="added_to_favorites">Added to favorites</string>
