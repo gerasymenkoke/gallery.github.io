@@ -33,7 +33,7 @@ class MainActivity : AppCompatActivity(), View.OnTouchListener  {
     private var upX = 0f
     private var upY = 0f
   
-    @RequiresApi(Build.VERSION_CODES.R?)
+    @RequiresApi(Build.VERSION_CODES.R)
     @SuppressLint("ClickableViewAccessibility")
     
     
